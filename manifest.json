@@ -1,41 +1,45 @@
 {
   "bracket": "master_plus",
   "files": {
-    "set17/16.11/master_plus/augments.json": {
+    "set18/16.19/master_plus/augments.json": {
       "bytes": 2,
       "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     },
-    "set17/16.11/master_plus/comps.json": {
-      "bytes": 2,
-      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    "set18/16.19/master_plus/comps.json": {
+      "bytes": 61284,
+      "sha256": "390a699cb3b3a07a2c5b6ad0dc2827a7fa007e87792213e3b200a1bf6deeaf5a"
     },
-    "set17/16.11/master_plus/items.json": {
-      "bytes": 12745,
-      "sha256": "074caf83ea3bc2907e05bb70ea710b715e8c043fc01aad7d081af42a62a9a174"
+    "set18/16.19/master_plus/items.json": {
+      "bytes": 19172,
+      "sha256": "a54290c0964849d7236ee6c94057c1e0a790bbf1002814ef071f06db76905e99"
     },
-    "set17/16.11/master_plus/traits.json": {
-      "bytes": 5767,
-      "sha256": "667cd03211ab4fc42fe969e1132cb949537bbf4785b22760e44ebe21a463e302"
+    "set18/16.19/master_plus/traits.json": {
+      "bytes": 10827,
+      "sha256": "bcac55d508580e4bb5cd069324284659cb2733c8eda142748051964d1693f067"
     },
-    "set17/16.11/master_plus/unit_items.json": {
-      "bytes": 17604,
-      "sha256": "e6c3bab330894a6e4ab789722dc4e4f4fdc6de8489dbd138ba9d084296b93e18"
+    "set18/16.19/master_plus/unit_builds.json": {
+      "bytes": 40226,
+      "sha256": "2761cb2f350c3fcb4310f735494ab170e306545c486a1f69d27be983fff146c1"
     },
-    "set17/16.11/master_plus/units.json": {
-      "bytes": 21183,
-      "sha256": "95be2b924e1b95f6c6480d9c5544fec3c54a9c19d48d67b5e3a43bcd5fda3fa9"
+    "set18/16.19/master_plus/unit_items.json": {
+      "bytes": 117869,
+      "sha256": "c891cde284bcea2724378428abd679af82c80b3b7152a148d8db261523c78a21"
     },
-    "set17/names.json": {
-      "bytes": 152911,
-      "sha256": "651958551a138e64fdc875443ab95c890330b6421371bda7166543b9848ca72d"
+    "set18/16.19/master_plus/units.json": {
+      "bytes": 26084,
+      "sha256": "f06fe46eb007e93bc4e5439a7bc1fe0d417596404b3c8650a197f33848b02d88"
+    },
+    "set18/names.json": {
+      "bytes": 149017,
+      "sha256": "b5bd44a0bdb87dfe421141ac7b4ba3df4d49be2ca0fbbe7f9ed526cb51d035de"
     }
   },
-  "games_total": 209,
-  "generated_at": "2026-06-12T13:41:35.993019425+00:00",
-  "matches_total": 167,
-  "patch": "16.11",
+  "games_total": 1393,
+  "generated_at": "2026-09-29T08:54:22.697641390+00:00",
+  "matches_total": 737,
+  "patch": "16.19",
   "region": "global",
   "schema_version": 1,
-  "set": 17,
+  "set": 18,
   "snapshot_id": 1
 }
