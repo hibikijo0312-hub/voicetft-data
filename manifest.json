@@ -6,40 +6,40 @@
       "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     },
     "set18/16.19/master_plus/comps.json": {
-      "bytes": 249584,
-      "sha256": "606b84fc4120e11a460b63b82ee248256a1825742a251dbdf0c3c94d2283a4d5"
+      "bytes": 268922,
+      "sha256": "ff32afbb4e1cd994f64f9792abc16964e6903d21e805c791bc6e324e933ca45a"
     },
     "set18/16.19/master_plus/items.json": {
-      "bytes": 22896,
-      "sha256": "b8ae4c8040b5d9a2bfd0f19efb87681bfd2064f1495c1c4ea809172bde868346"
+      "bytes": 23032,
+      "sha256": "b60526c60fac833f941f49dc0997e0abf5f1074e1bfc51cd18931753b0be79f3"
     },
     "set18/16.19/master_plus/traits.json": {
-      "bytes": 13313,
-      "sha256": "179ab99393f6a4ed27e733b8b4202e4ff9aa57208be1571429e94a3fb64b7e19"
+      "bytes": 13528,
+      "sha256": "22fa01a319ba8c75cd736a1092a7a88c9afcffdea553e1de9e5d2fdc8b6006e5"
     },
     "set18/16.19/master_plus/unit_builds.json": {
-      "bytes": 351349,
-      "sha256": "c59590d1cea8ad0fd2cce1eb788f36d1e2cd1c2619b6a9d70cec3ff6b0ba30e2"
+      "bytes": 379740,
+      "sha256": "30fe23f99bfd3209a98cb02980fdfabc0be356bbe1c15d3c3876c540b38f7a8d"
     },
     "set18/16.19/master_plus/unit_items.json": {
-      "bytes": 299063,
-      "sha256": "e04cd1aad043bfa391d45ede28607130e07c8024c4e665fa863c36ccea86177d"
+      "bytes": 309652,
+      "sha256": "5c9bd3aef887031351424e1747c09538cc3d65c549713f274b5bc6539441897b"
     },
     "set18/16.19/master_plus/units.json": {
-      "bytes": 28127,
-      "sha256": "5b1203a7a262a7459a04eb036b193c5c8d78f5020f7b2431d32007d4f9d2dbe2"
+      "bytes": 28130,
+      "sha256": "81b1b7a6c6cf1c30a7e96cf0e9a6d46f9dd8acab65c79dcc19fa120d439abd73"
     },
     "set18/names.json": {
       "bytes": 149017,
       "sha256": "b5bd44a0bdb87dfe421141ac7b4ba3df4d49be2ca0fbbe7f9ed526cb51d035de"
     }
   },
-  "games_total": 8915,
-  "generated_at": "2026-10-01T09:32:27.949035729+00:00",
-  "matches_total": 3283,
+  "games_total": 9768,
+  "generated_at": "2026-10-02T09:03:19.403229193+00:00",
+  "matches_total": 3667,
   "patch": "16.19",
   "region": "global",
   "schema_version": 1,
   "set": 18,
-  "snapshot_id": 6
+  "snapshot_id": 7
 }
