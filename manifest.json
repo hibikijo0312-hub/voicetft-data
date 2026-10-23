@@ -6,40 +6,40 @@
       "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     },
     "set18/16.20/master_plus/comps.json": {
-      "bytes": 288164,
-      "sha256": "b204de89be1dea9bdee1b10e0a8d6b37c150d8a4c39dd951e3723161b48e178c"
+      "bytes": 282023,
+      "sha256": "154608e1c9cc433a77116470963874106314c64896f9d7e34ea2c794d1e0f9f5"
     },
     "set18/16.20/master_plus/items.json": {
-      "bytes": 23510,
-      "sha256": "f24e8b58106366b3376f2c49fb062ab9d18249905abc97768537c47dc8630303"
+      "bytes": 23330,
+      "sha256": "5b01cf634523d6f53668107b807f1b916b69080723f24f5a8a2e6cde60dbd6e8"
     },
     "set18/16.20/master_plus/traits.json": {
-      "bytes": 13836,
-      "sha256": "13e494d53c3af5eee9efdae9b71c47f1f33b05b7da4877fe4a1a189e1ffec133"
+      "bytes": 13607,
+      "sha256": "e44dad0521920061003b6aed7eb238f124e27f54e160b362ea44f9c2135791c1"
     },
     "set18/16.20/master_plus/unit_builds.json": {
-      "bytes": 390784,
-      "sha256": "cbd22fd0f5f73f21e42821d45e07ff03d898095ba0ce0a715bc84ca0ee116434"
+      "bytes": 380812,
+      "sha256": "27ea0eb19765801c475d58e79843b37346dfc3a5257ac380d6d1d281f9c64970"
     },
     "set18/16.20/master_plus/unit_items.json": {
-      "bytes": 332007,
-      "sha256": "ecd56540b06cd200ef2545de819f846c9b92775c65787a4250aae27a13acf425"
+      "bytes": 330551,
+      "sha256": "42b4bafe898c20aef1ddb1f66275e121904ee95675a4e4be29ec515cea0b9708"
     },
     "set18/16.20/master_plus/units.json": {
-      "bytes": 28045,
-      "sha256": "a084685d1d30bee8e0ba2a8b9be60798418d5187d464d2163c9512a54bff64d6"
+      "bytes": 28071,
+      "sha256": "6b986ad9995c5a4912b1f38ec9571313ddbb9f8d599b2a7b339e47219f15e389"
     },
     "set18/names.json": {
       "bytes": 151174,
       "sha256": "14b144b00fc850d1134ecf00d578cbbd2abda17d2226cce7e40d49a4a9d08de7"
     }
   },
-  "games_total": 10313,
-  "generated_at": "2026-10-22T08:07:01.239638073+00:00",
+  "games_total": 9996,
+  "generated_at": "2026-10-23T08:06:19.775471485+00:00",
   "matches_total": 4624,
   "patch": "16.20",
   "region": "global",
   "schema_version": 1,
   "set": 18,
-  "snapshot_id": 27
+  "snapshot_id": 28
 }
