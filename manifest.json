@@ -6,8 +6,8 @@
       "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     },
     "set18/16.20/master_plus/comps.json": {
-      "bytes": 282717,
-      "sha256": "1d04c9376c3344ba430ef280deab9e6e2aaf7df5962d160ff46db7a124df95fc"
+      "bytes": 282709,
+      "sha256": "ded9e987217d5e466003f7ed999278a58190491c48b61cb514e115cd074a7975"
     },
     "set18/16.20/master_plus/items.json": {
       "bytes": 23403,
@@ -19,11 +19,11 @@
     },
     "set18/16.20/master_plus/unit_builds.json": {
       "bytes": 387666,
-      "sha256": "0583372cd8a5345760b8b03aaa35a1ed8f701fa8198b86229df4404b9a41b520"
+      "sha256": "677efdbd7d68b4f6c5800c329a483f2502fca376e19b4672de3a6ea39b93700c"
     },
     "set18/16.20/master_plus/unit_items.json": {
       "bytes": 331318,
-      "sha256": "0d53b1cb70ddb1bb5d03239b9eed8c507e394975fabc9f2366a546c218b06df8"
+      "sha256": "077a0d698e7579616353f1693d3eff63bdf47fa0c8ea9d8bc990963f45629350"
     },
     "set18/16.20/master_plus/units.json": {
       "bytes": 28133,
@@ -35,11 +35,11 @@
     }
   },
   "games_total": 10221,
-  "generated_at": "2026-10-24T07:46:21.908082110+00:00",
+  "generated_at": "2026-10-25T07:48:33.283633204+00:00",
   "matches_total": 4624,
   "patch": "16.20",
   "region": "global",
   "schema_version": 1,
   "set": 18,
-  "snapshot_id": 29
+  "snapshot_id": 30
 }
